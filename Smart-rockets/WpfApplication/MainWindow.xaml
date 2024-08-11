@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApplication46.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfApplication46"
+        Title="Smart rockets" Height="387.867" Width="405.277">
+    <Grid>
+        <StackPanel>
+            <WrapPanel>
+                <Label Content="Lifespan: " HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center"/>
+                <Label Name="lbCount" Content="0" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center"/>
+            </WrapPanel>
+            <local:DrawingVisualClass x:Name="g" HorizontalAlignment="Center" Margin="0" Width="379" Background="Black" Height="302" VerticalAlignment="Center"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
