@@ -16,4 +16,6 @@ Rockets try to reach target.
 
 Based on "#29 — Smart Rockets in p5.js" https://thecodingtrain.com/challenges/29-smart-rockets-in-p5js
 
+https://youtu.be/Hk8HHdM83Ms
+
 ![image](https://github.com/user-attachments/assets/6c68f143-8c32-43f8-a79e-b5c8e907e309)
